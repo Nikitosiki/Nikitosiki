@@ -33,6 +33,6 @@
     <br/>
     <br/>
     <h1></h1>
-    <strong>About me... <a href="https://dev-by-nikita.oni">https://dev-by-nikita.oni</a></strong>  (In the future)
+    <strong>About me... <a href="https://dev-by-nikita.netlify.app/">https://dev-by-nikita.netlify.app</a></strong>  (In the future)
 </div>
 </div>
