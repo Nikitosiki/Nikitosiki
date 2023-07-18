@@ -22,8 +22,8 @@
     <div>
         <br/>
         <div>
-            <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikitosiki&theme=buefy"/>
-            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitosiki&layout=compact"/>
+            <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikitosiki&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitosiki&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
         </div>
  <!--  <br/>
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitosiki&theme=buefy"/> -->
