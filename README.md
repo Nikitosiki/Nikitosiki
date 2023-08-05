@@ -29,10 +29,10 @@
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitosiki&theme=buefy"/> -->
     </div>
 </div>
-<div align="left">
+ <!--  <div align="left">
     <br/>
     <br/>
     <h1></h1>
     <strong>About me... <a href="https://dev-by-nikita.netlify.app/">https://dev-by-nikita.netlify.app</a></strong>  (In the future)
 </div>
-</div>
+</div> -->
