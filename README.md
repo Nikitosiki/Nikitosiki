@@ -19,7 +19,7 @@
           just a developer . . .
         </h3>
         <h4>Time in IDEs</h4>
-        <a href="https://wakatime.com/@Nikitosik"><img src="https://wakatime.com/badge/user/03db0c51-52db-4ff9-a00f-0ff44c1f0d2e.svg"> <img src="https://img.shields.io/badge/(since 9th September 2023)-blue" /></a>
+        <a href="https://wakatime.com/@Nikitosik"><img src="https://wakatime.com/badge/user/03db0c51-52db-4ff9-a00f-0ff44c1f0d2e.svg"> <img src="https://img.shields.io/badge/(since 3th September 2023)-blue" /></a>
     </div>
     <div>
         <br/>
